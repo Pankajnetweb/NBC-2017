@@ -1,3 +1,4 @@
+```
 [root@c08m ~]# pbsnodes -a
 c08n1
      Mom = c08n1
@@ -43,3 +44,4 @@ c08n2
      sharing = default_shared
      license = l
 
+```

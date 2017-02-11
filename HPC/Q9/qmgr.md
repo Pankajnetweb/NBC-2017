@@ -1,3 +1,4 @@
+```
 [root@c08m ~]# qmgr -c "p s"
 #
 # Create queues and set their attributes.
@@ -30,3 +31,4 @@ set server license_count = Avail_Global:1000000 Avail_Local:1000000 Used:0 High_
 set server eligible_time_enable = False
 set server max_concurrent_provision = 5
 [root@c08m ~]#
+```
