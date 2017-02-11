@@ -1,3 +1,4 @@
+```
 #!/bin/bash
 
 # Note : This script is relay on password less ssh access for master_node
@@ -108,3 +109,4 @@ rm -rf  $tdir
 
 exit 0
 [root@c08mt ~]#
+```

@@ -1,3 +1,4 @@
+```
 pankajnetweb@c08n1t apps]$ df -h
 Filesystem                       Size  Used Avail Use% Mounted on
 /dev/sda2                         99G  3.7G   90G   4% /
@@ -11,3 +12,4 @@ tmpfs                            396M     0  396M   0% /run/user/0
 tmpfs                            396M     0  396M   0% /run/user/1000
 10.10.10.144:/apps                99G  4.6G   89G   5% /nfsroot/apps
 [pankajnetweb@c08n1t apps]$
+```
