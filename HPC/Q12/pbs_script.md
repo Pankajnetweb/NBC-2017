@@ -1,3 +1,4 @@
+```
 [pankajnetweb@c08m ~]$ cat pbstest.sh
 #/bin/bash -l
 #PBS -N test_job
@@ -9,3 +10,4 @@ module load mpi/openmpi/x86_64
 mpirun -machinefile ./nodes np 2 ./cpi
 hostname
 [pankajnetweb@c08m ~]$
+```
