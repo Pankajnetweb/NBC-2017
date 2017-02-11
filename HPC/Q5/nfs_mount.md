@@ -1,3 +1,4 @@
+```
 [pankajnetweb@c08n1 ~]$
 [pankajnetweb@c08n1 ~]$ cd /apps
 [pankajnetweb@c08n1 apps]$ df -h
@@ -12,3 +13,4 @@ tmpfs                           2.0G     0  2.0G   0% /sys/fs/cgroup
 tmpfs                           396M     0  396M   0% /run/user/1000
 10.10.10.69:/apps                99G  5.2G   89G   6% /nfsroot/apps
 [pankajnetweb@c08n1 apps]$
+```
